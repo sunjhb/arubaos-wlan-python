@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2022/4/29 7:00 PM
 # @Author  : Jihu Sun
-# @FileName: logout.py
+# @FileName: login.py
 # @Software: PyCharm
 
 import requests
